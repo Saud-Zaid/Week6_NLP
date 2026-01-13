@@ -12,6 +12,8 @@ dependencies = [
     "matplotlib>=3.10.8",
     "nltk>=3.9.2",
     "pyarabic>=0.6.15",
+    "pyspellchecker>=0.8.4",
+    "qalsadi>=0.5.1",
     "seaborn>=0.13.2",
     "spellchecker>=0.4",
 ]
